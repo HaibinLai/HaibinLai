@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
-- 🔭 I’m currently working on Elementary French and C++ 
-- 🌱 I’m currently learning CUDA C++ Programming
+- 🔭 I’m currently working on High Performance Computing (HPC) and Elementary French
+- 🌱 I have currently learned CUDA C++ Programming
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
 - 😄 Likes: MacDonald
