@@ -1,14 +1,13 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
-- 🔭 I’m currently working on High Performance Computing (HPC) and Elementary French
+- 🔭 I’m working on High Performance Computing (HPC) and Elementary French
 - 🌱 I have currently learned CUDA C++ Programming
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
-- 😄 Likes: MacDonald
-- ⚡ Fun fact: My C++ Teacher 
+- 😄 Likes: MacDonald and My C++ Teacher
+- ⚡ Fun fact:  I have recently loss my account when downloading a repo on github
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog,Tcl,CSS,Jupyter&show=CS311-AI-Peoject3-XGBoost)](https://github.com/Laihb1106205841/github-readme-stats)
 
 
 <a href="https://github.com/Laihb1106205841">
@@ -16,6 +15,7 @@
 </a>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog,Tcl,CSS,Jupyter&show=CS311-AI-Peoject3-XGBoost)](https://github.com/Laihb1106205841/github-readme-stats)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
