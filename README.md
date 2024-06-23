@@ -4,7 +4,7 @@
 - 🌱 I have currently learned CUDA C++ Programming
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
-- 😄 Likes: MacDonald and My C++ Teacher
+- 😄 Likes: MacDonald and C++
 - ⚡ Fun fact:  I have recently loss my account when downloading a repo on github
 
 
