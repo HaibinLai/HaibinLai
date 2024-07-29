@@ -5,7 +5,7 @@
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
 - 😄 Likes: MacDonald and C++
-- ⚡ Fun fact:  I have recently loss my account when downloading a repo on github
+- ⚡ Fun fact:  I recently loss my account when downloading a repo on github
 
 
 
