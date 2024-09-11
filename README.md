@@ -13,7 +13,9 @@
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
 </a>
-
+<a href="https://github.com/Laihb1106205841">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
+</a>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog,Tcl,CSS,Jupyter&show=CS311-AI-Peoject3-XGBoost)](https://github.com/Laihb1106205841/github-readme-stats)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
