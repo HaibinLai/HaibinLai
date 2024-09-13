@@ -4,25 +4,10 @@ I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern
 
 One of my extracuricular activities is playing tennis. I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
 
-<div>			<!--块级封装-->
-    <center>	<!--将图片和文字居中-->
-    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214302.jpg"
-         alt="无法显示图片时显示的文字"
-         style="zoom:0.3"/>
-    <br>		<!--换行-->
-    My Radio Telescope Signal	<!--标题-->
-    </center>
-</div>
-
-
 - 😄 Likes: MacDonald and C++
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
-
 - ⚡ Fun fact:  I recently loss my account when downloading a repo on github
-
-
-
 
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
@@ -30,6 +15,27 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
+
+<div>			<!--块级封装-->
+    <center>	<!--将图片和文字居中-->
+    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214302.jpg"
+         alt="无法显示图片时显示的文字"
+         style="zoom:0.2"/>
+    <br>		<!--换行-->
+    My Radio Telescope Signal	<!--标题-->
+    </center>
+</div>
+<div>			<!--块级封装-->
+    <center>	<!--将图片和文字居中-->
+    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214845.png"
+         alt="无法显示图片时显示的文字"
+         style="zoom:0.15"/>
+    <br>		<!--换行-->
+    My HPL Analyse	<!--标题-->
+    </center>
+</div>
+ %%
+
 <!--
 [![Top Langs](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-JavaScript-black)](https://github.com/Laihb1106205841/github-readme-stats)
 [![JavaScript](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-HTML5-E34F26)](https://github.com/BRdhanani) 
