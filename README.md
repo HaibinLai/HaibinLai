@@ -4,10 +4,18 @@ I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern
 
 One of my extracuricular activities is playing tennis. I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
 
+> Feel free to visit my [blog]([Haibin's blog - SUSTech Haibin (haibinlaiblog.top)](https://www.haibinlaiblog.top/)) !
+
 - 😄 Likes: MacDonald and C++
 - 💬 Come to play tennis with me every Tuesday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
 - ⚡ Fun fact:  I recently loss my account when downloading a repo on github
+
+### High-Performance Computing
+ASC STUDENT SUPERCOMPUTER CHALLENGE 2024
+Shanghai, China
+Member of team
+**First Prize**
 
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
