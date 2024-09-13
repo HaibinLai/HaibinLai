@@ -12,10 +12,16 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 - ⚡ Fun fact:  I recently loss my account when downloading a repo on github
 
 ### High-Performance Computing
+
 ASC STUDENT SUPERCOMPUTER CHALLENGE 2024
+
 Shanghai, China
+
 Member of team
+
 **First Prize**
+
+
 
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
