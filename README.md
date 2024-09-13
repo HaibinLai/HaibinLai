@@ -1,12 +1,18 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
-I am `Haibin Lai,` a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database** and so forth. 
+I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database** and so forth. 
 
 One of my extracuricular activities is playing tennis. I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
 
-![微信图片_20240913214302.jpg](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214302.jpg)
-
-
+<div>			<!--块级封装-->
+    <center>	<!--将图片和文字居中-->
+    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214302.jpg"
+         alt="无法显示图片时显示的文字"
+         style="zoom:0.3"/>
+    <br>		<!--换行-->
+    My Radio Telescope Signal	<!--标题-->
+    </center>
+</div>
 
 
 - 😄 Likes: MacDonald and C++
