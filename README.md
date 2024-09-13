@@ -13,13 +13,10 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 
 ### High-Performance Computing
 
-ASC STUDENT SUPERCOMPUTER CHALLENGE 2024
+ASC STUDENT SUPERCOMPUTER CHALLENGE 2024, Shanghai, China
 
-Shanghai, China
+Member of team, **First Prize**
 
-Member of team
-
-**First Prize**
 
 
 
