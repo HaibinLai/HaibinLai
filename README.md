@@ -1,5 +1,7 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
+I am a Computer Science undergraduate student in Southern University and Science and Technology.
+
 - 🔭 I’m working on High Performance Computing (HPC) and Elementary French
 - 🌱 I have currently learned CUDA C++ Programming
 - 💬 Come to play tennis with me every Tuesday and Friday
