@@ -15,25 +15,6 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
-%% 
-%% %% %% %% %% <div>			<!--块级封装-->
-    <center>	<!--将图片和文字居中-->
-    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214302.jpg"
-         alt="无法显示图片时显示的文字"
-         style="zoom:0.2"/>
-    <br>		<!--换行-->
-    My Radio Telescope Signal	<!--标题-->
-    </%% %% %% %% center>
-</div>     
-<div>			<!--块级封装-->
-    <center>	<!--将图片和文字居中-->
-    <img src="https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240913214845.png"
-         alt="无法显示图片时显示的文字"
-         style="zoom:0.15"/>
-    <br>		<!--换行-->
-    My HPL Analyse	 %% %% %% %%<!--标题-->
-    </center>
-</div> %%
 
 
 <!--
