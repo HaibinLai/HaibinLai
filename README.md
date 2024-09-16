@@ -25,7 +25,7 @@ Member of team, **First Prize**
   <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,cuda,py,java,latex,opencv,postgres,pytorch,docker,kubernetes,grafana,prometheus,vue,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,java,latex,opencv,postgres,pytorch,docker,kubernetes,grafana,prometheus,vue,linux,git,github)](https://skillicons.dev)
 <!--
 
 <a href="https://github.com/Laihb1106205841">
