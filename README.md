@@ -21,7 +21,7 @@ Member of team, **First Prize**
 ---
 
 
-<a href="https://github.com/Laihb1106205841">
+<a href="https://github.com/HaibinLai">
   <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
 
