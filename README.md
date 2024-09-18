@@ -5,7 +5,8 @@ I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern
 One of my extracuricular activities is playing tennis. I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) !
-> Take a look for my [cv](https://www.haibinlaiblog.top/index.php/my-cv/)
+>
+> Take a look for my [cv](https://www.haibinlaiblog.top/index.php/my-cv/) !
 
 - 😄 Likes: MacDonald and C++
 - 💬 Come to play tennis with me every Tuesday and Friday
