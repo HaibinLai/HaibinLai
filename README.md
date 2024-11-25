@@ -19,6 +19,7 @@ ASC STUDENT SUPERCOMPUTER CHALLENGE 2024, Shanghai, China
 
 Member of team, **First Prize**
 
+---
 
 APAC HPC-AI 2024 Competition
 
