@@ -9,9 +9,9 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 > Take a look for my [CV](https://www.haibinlaiblog.top/wp-content/uploads/2024/10/HaibinLai_CV.pdf) !
 
 - 😄 Likes: MacDonald and C++
-- 💬 Come to play tennis with me every Tuesday and Friday
+- 💬 Come to play tennis with me every Monday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
-- ⚡ Fun fact:  I recently loss my account when downloading a repo on github
+- ⚡ Fun fact:  I recently loss my account when downloading a repo on github. And I just learn how to use ssh to submit code to github on 11/20/2024.
 
 ### High-Performance Computing
 
