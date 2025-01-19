@@ -33,13 +33,17 @@ HPC team leader, **Third Prize**
   <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,java,latex,opencv,postgres,pytorch,docker,grafana,prometheus,vue,linux,git)](https://skillicons.dev)
+-/->
+
 <!--
 
 <a href="https://github.com/Laihb1106205841">
   <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
 </a>
 
+<!--
 [![Top Langs](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-JavaScript-black)](https://github.com/Laihb1106205841/github-readme-stats)
 [![JavaScript](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-HTML5-E34F26)](https://github.com/BRdhanani) 
 [![HTML5](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-CSS3-1572B6)](https://github.com/BRdhanani) 
@@ -51,7 +55,8 @@ HPC team leader, **Third Prize**
 [![MySQL](https://blog-1327458544.cos.ap-guangzhou.myqcloud.com/New/-Git-black)](https://github.com/BRdhanani)
 [![Git](undefined)](https://github.com/BRdhanani) 
 
-//-/->
+
+-/->
 
 
 
