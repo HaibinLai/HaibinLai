@@ -6,7 +6,7 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) !
 >
-> Take a look for my ([CV](https://www.haibinlaiblog.top/wp-content/uploads/2024/12/Haibin_CV-2.pdf)) !
+> Take a look for my ([CV](https://github.com/HaibinLai/HaibinLai/blob/main/Haibin_CV%20(5).pdf)) !
 
 - 😄 Likes: MacDonald and C++
 - 💬 Come to play tennis with me every Monday and Friday
