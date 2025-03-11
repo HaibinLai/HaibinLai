@@ -14,7 +14,7 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 - ⚡ Fun fact:  I recently loss my account when downloading a repo on github. And I just learn how to use ssh to submit code to github on 11/20/2024.
 
 
-### don't build a castle on a swamp
+### Motto: Don't build a castle on a swamp
 
 ### High-Performance Computing
 
