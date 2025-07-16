@@ -2,7 +2,7 @@
 
 I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database** and so forth. 
 
-One of my extracuricular activities is playing tennis. I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
+One of my extracuricular activities is playing tennis. 
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) (May need 5s to load)!
 >
@@ -14,19 +14,12 @@ One of my extracuricular activities is playing tennis. I am enthusatic in Astron
 - ⚡ Fun fact:  I recently loss my account when downloading a repo on github. And I just learn how to use ssh to submit code to github on 11/20/2024.
 
 
-### Motto: Don't build a castle on a swamp
+Motto: Don't build a castle on a swamp
 
-### High-Performance Computing
 
-ASC STUDENT SUPERCOMPUTER CHALLENGE 2024, Shanghai, China
+I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
 
-Member of team, **First Prize**
-
----
-
-APAC HPC-AI 2024 Competition
-
-HPC team leader, **Third Prize**
+![telescope](https://github.com/user-attachments/assets/5f786a5d-3277-4884-9b02-e0b637119022)
 
 
 ---
