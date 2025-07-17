@@ -17,7 +17,7 @@ One of my extracuricular activities is playing tennis.
 Motto: Don't build a castle on a swamp
 
 
-I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in my University.
+I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in SUSTech.
 
 ![telescope](https://github.com/user-attachments/assets/5f786a5d-3277-4884-9b02-e0b637119022)
 
