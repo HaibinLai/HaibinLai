@@ -26,19 +26,21 @@ I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 cent
 
 
 
-<a href="https://github.com/HaibinLai">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
-</a>
+
 
 
 <a href="https://github.com/HaibinLai">
-  <img src="https://github-readme-stats-git-master-haibinlais-projects.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-black-beta-59.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
 </a>
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,java,latex,opencv,postgres,pytorch,docker,grafana,prometheus,vue,linux,git)](https://skillicons.dev)
 
+github-readme-stats-black-beta-59.vercel.app
 
+<a href="https://github.com/HaibinLai">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaibinLai&show_icons=true&hide_border=true" />
+</a>
 
 -/->
 
