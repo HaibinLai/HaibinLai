@@ -6,7 +6,7 @@ One of my extracuricular activities is playing tennis.
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) (May need 5s to load)!
 >
-> Take a look for my ([CV](https://haibinlai.github.io/File.github.io/Haibin_CV_250212.pdf)) !
+> Take a look for my ([CV](https://haibinlai.github.io/File.github.io/Haibin_SUSTech_CV.pdf)) !
 
 - 😄 Likes: MacDonald and C++
 - 💬 Come to play tennis with me every Monday and Friday
