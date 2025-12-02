@@ -1,23 +1,23 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
-I am `Haibin Lai`,  a Computer Science undergraduate student major at **Southern University and Science and Technology**. Problem solving is my lifelong delight. My Research interests span **High Performance Computing**, **Accerlating Computing**, **Database** and so forth. 
+I am `Haibin Lai`,  a Computer Science undergraduate student majoring at **Southern University and Science and Technology**. Problem-solving is my lifelong delight. My Research interests span **Machine Learning Systems**, **High Performance Computing**, **Accerlating Computing**, and so forth. 
 
-One of my extracuricular activities is playing tennis. 
+One of my extracurricular activities is playing tennis. 
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) (May need 5s to load)!
 >
 > Take a look for my ([CV](https://haibinlai.github.io/File.github.io/Haibin_CV_1120.pdf)) !
 
-- 😄 Likes: MacDonald and C++
+- 😄 Likes: McDonald's and C++
 - 💬 Come to play tennis with me every Monday and Friday
 - 📫 How to reach me: 12211612@mail.sustech.edu.cn
-- ⚡ Fun fact:  I recently loss my account when downloading a repo on github. And I just learn how to use ssh to submit code to github on 11/20/2024.
+- ⚡ Fun fact:  I recently lost my account when downloading a repo on GitHub. And I just learn how to use ssh to submit code to github on 11/20/2024.
 
 
 Motto: Don't build a castle on a swamp
 
 
-I am enthusatic in Astronmy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in SUSTech.
+I am enthusiastic in Astronomy, and I built a **Radio telescope** observing 21 centimeter lineorHI line in SUSTech.
 
 ![telescope](https://github.com/user-attachments/assets/5f786a5d-3277-4884-9b02-e0b637119022)
 
