@@ -5,8 +5,7 @@ I am `Haibin Lai`,  a Computer Science undergraduate student majoring at **South
 One of my extracurricular activities is playing tennis. 
 
 > Feel free to visit my [blog](https://www.haibinlaiblog.top/) (May need 5s to load)!
->
-> Take a look for my ([CV](https://haibinlai.github.io/File.github.io/Haibin_CV_1120.pdf)) !
+
 
 - 😄 Likes: McDonald's and C++
 - 💬 Come to play tennis with me every Monday and Friday
