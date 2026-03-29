@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Haibin Lai's Github
 
-I am `Haibin Lai`,  a Computer Science undergraduate student majoring at **Southern University and Science and Technology**. Problem-solving is my lifelong delight. My Research interests span **Machine Learning Systems**, **High Performance Computing**, **Accerlating Computing**, and so forth. 
+I am `Haibin Lai`,  a Computer Science undergraduate student majoring at **Southern University and Science and Technology**. Problem-solving is my lifelong delight. My Research interests span **Distributed Systems**, **Parallel Computing**, **High Performance Computing**,  and so forth. 
 
 One of my extracurricular activities is playing tennis. 
 
